@@ -1,2 +1,2 @@
 # Wildfire-Smoke-Detection
-Detection of wildfire
+Detection of Wildfire Smoke
